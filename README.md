@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Tristan</h1>
+<h1 align="center">Hi 👋, I'm Tristan!</h1>
 <h3 align="center">Undergraduate Student @ Duke University</h3>
 
 
