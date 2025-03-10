@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Tristan</h1>
 <h3 align="center">Undergraduate Student @ Duke University</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tristanyii" alt="tristanyii" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
