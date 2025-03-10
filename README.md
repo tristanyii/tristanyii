@@ -1,5 +1,6 @@
 <img align="left" alt="Coding" width="1600" src="header.png">
-
+<br>
+<br>
 <h1 align="center">Hi 👋, I'm Tristan</h1>
 <h3 align="center">Undergraduate Student @ Duke University</h3>
 
