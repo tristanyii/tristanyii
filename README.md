@@ -52,13 +52,6 @@
 
 ---
 
-### 🧭 About
-
-- Building full‑stack apps with React/Next.js, Node/Express, and Postgres
-- Passionate about photography and traveling — see the interactive map on my portfolio
-- Always learning, always shipping
-
----
 
 ### 📬 Contact
 
