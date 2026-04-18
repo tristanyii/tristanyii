@@ -21,18 +21,11 @@
 
 ---
 
-### 📈 Activity & Pulse
+### 📊 Stats & Impact
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tristanyii&theme=tokyonight&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-### 🎧 Currently Vibe-ing To
-<p align="center">
-  <a href="https://open.spotify.com/user/kjq94n4jsrovc840u9qvpx0o5">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?background_color=111827&link_color=1db954&text_color=ffffff" alt="Spotify Now Playing" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tristanyii&show_icons=true&theme=tokyonight&hide_border=true" alt="Tristan's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tristanyii&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
