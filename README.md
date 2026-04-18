@@ -39,8 +39,6 @@
 ---
 
 <div align="center">
-  <p>Currently engineering <b>Verlo AI</b></p>
-  <a href="https://tristanyi.com/">
-    <img src="https://img.shields.io/badge/Check_out_what_I'm_building-tristanyi.com-blue?style=flat-square&color=7aa2f7" />
+  <p>Currently working @ <b>Verlo AI, Kalshi</b></p>
   </a>
 </div>
