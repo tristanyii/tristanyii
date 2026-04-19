@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Header" src="header1.png" width="100%" />
+  <img alt="Header" src="header2.png" width="100%" />
 
   <p>hi :) my name is tristan and im currently studying cs @ duke!</p>
 
@@ -15,7 +15,7 @@
 
 ---
 
-<h2 align="center">⚡ technologies</h2>
+<h2 align="center">technologies</h2>
 
 <table align="center">
 <tr>
