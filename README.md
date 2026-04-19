@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Header" src="header.png" width="100%" />
+  <img alt="Header" src="header1.png" width="100%" />
 
   <p>hi :) my name is tristan and im currently studying cs @ duke!</p>
 
@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/badge/C-111?style=flat-square&logo=c" />
 <img src="https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript" />
 <img src="https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript" />
-<img src="https://img.shields.io/badge/Swift-111?style=flat-square&logo=swift" />
 </td>
 
 <td align="center">
